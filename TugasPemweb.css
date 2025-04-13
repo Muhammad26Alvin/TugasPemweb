@@ -1,0 +1,29 @@
+.hero {
+    background-image: url('https://wallpapercave.com/wp/wp6878187.jpg');
+    background-size: cover;
+    background-position: center;
+    color: white;
+    text-align: center;
+    padding: 150px 20px;
+  }
+  footer {
+    background-color: #484848;
+    color: white;
+    padding: 30px 0;
+    text-align: center;
+  }
+  .navbar {
+    background-color: #484848;
+  }
+  .navbar a {
+    color: white !important;
+  }
+  .btn-custom {
+      background-color: #484848;
+      color: white;
+      border: none;
+    }
+  
+    .btn-custom:hover {
+      background-color: #2d2d2d;
+    }
